@@ -1,7 +1,5 @@
 # Fnp-Sales-Analysis
 
-# 🧾 Executive Dashboard Analysis Report – FNP Sales Performance
-
 # Tools Used - 
 - MS Excel, Power Query
 
