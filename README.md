@@ -84,7 +84,6 @@ These KPIs define the business scale, customer behavior, and operational turnaro
 3. **Regional Strategy:** Prioritize top-performing cities with localized offers.  
 4. **Delivery Efficiency:** Reduce lead time through logistics partnerships.  
 5. **Customer Retention:** Implement loyalty programs for customers spending >₹3,500.  
-6. **Data Depth:** Add profitability, repeat purchase, and customer segmentation metrics for improved executive visibility.
 
 ---
 
