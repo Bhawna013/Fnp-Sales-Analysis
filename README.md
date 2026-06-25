@@ -29,16 +29,16 @@ These KPIs provide a high-level view of both commercial performance and operatio
 
 ## 1. Occasion-wise Revenue Analysis
 
-### Why was this analysis performed?
+**Why was this analysis performed?**
 Since FNP operates in the gifting industry, customer purchases are strongly influenced by special occasions. Analyzing revenue by occasion helps determine which events contribute most to annual sales and where marketing investments produce the highest returns.
 
-### Findings
+**Findings**
 Anniversary and Raksha Bandhan generated the highest revenue, each contributing over ₹6 lakh. In contrast, Diwali and Valentine's Day produced comparatively lower revenue despite being major gifting occasions.
 
-### Business Insight
+**Business Insight**
 The results suggest that customers associate FNP more strongly with relationship-based celebrations than with broad cultural festivals. This indicates an opportunity to strengthen festive campaigns through exclusive collections, limited-time offers, and improved promotional strategies during underperforming occasions.
 
-### Business Recommendation
+**Business Recommendation**
 Allocate larger marketing budgets toward proven high-performing occasions while redesigning festive campaigns for Diwali and Valentine's Day to improve customer engagement and revenue contribution.
 
 ---
